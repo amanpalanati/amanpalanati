@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Aman
+# 👋 Hey, I'm Aman
 
 🎓 **Computer Engineering @ UC San Diego**  
 💡 Passionate about blending **hardware and software** to create meaningful, efficient systems.  
